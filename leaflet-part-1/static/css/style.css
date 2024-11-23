@@ -1,0 +1,33 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+  width: 100%;
+}
+
+/* Style for the legend */
+.info.legend {
+  background: white; /* Solid white background */
+  padding: 10px;
+  line-height: 1.5;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 12px;
+  opacity: 1; /* Ensure it's not see-through */
+  width: 160px; /* Set a fixed width for the legend */
+}
+
+/* Style for the color blocks */
+.legend i {
+  width: 20px;
+  height: 20px;
+  display: inline-block; /* Ensures the color block is inline with text */
+  margin-right: 10px;
+  vertical-align: middle; /* Align the text with the color block */
+  margin-bottom: 4px; /* Space between items */
+}
