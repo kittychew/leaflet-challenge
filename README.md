@@ -41,7 +41,7 @@ This project involves visualizing earthquake data collected by the United States
 
 ## Screenshots
 
-![Earthquake Map](./leaflet-challenge/images/earthquake_map.png)  
+![Earthquake Map](./images/earthquake_map.png)
 *Screenshot of the interactive earthquake visualization map.*
 
 ---
