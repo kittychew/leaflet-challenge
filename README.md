@@ -46,7 +46,7 @@ This project involves visualizing earthquake data collected by the United States
 
 ---
 
-## Future Enhancements (Optional)
+## Future Enhancements
 
 - **Layer Controls**: Add the ability to toggle between different data layers, such as tectonic plates or additional seismic data.
 - **Time-based Analysis**: Integrate functionality to filter earthquakes by time period (e.g., past day, week, month).
